@@ -1,0 +1,6 @@
+id,email,first_name,last_name,role,team_id,jersey_number,position,created_at,updated_at,fcm_token
+d290f1ee-6c54-4b01-90e6-d701748f0852,coach@example.com,John,Smith,coach,d290f1ee-6c54-4b01-90e6-d701748f0851,,,2024-01-01 00:00:00+00,2024-01-01 00:00:00+00,
+d290f1ee-6c54-4b01-90e6-d701748f0853,player1@example.com,Sarah,Johnson,player,d290f1ee-6c54-4b01-90e6-d701748f0851,7,setter,2024-01-01 00:00:00+00,2024-01-01 00:00:00+00,
+d290f1ee-6c54-4b01-90e6-d701748f0854,player2@example.com,Mike,Williams,player,d290f1ee-6c54-4b01-90e6-d701748f0851,12,outside,2024-01-01 00:00:00+00,2024-01-01 00:00:00+00,
+d290f1ee-6c54-4b01-90e6-d701748f0855,parent1@example.com,David,Johnson,parent,d290f1ee-6c54-4b01-90e6-d701748f0851,,,2024-01-01 00:00:00+00,2024-01-01 00:00:00+00,
+d290f1ee-6c54-4b01-90e6-d701748f0856,player3@example.com,Emily,Brown,player,d290f1ee-6c54-4b01-90e6-d701748f0851,15,middle,2024-01-01 00:00:00+00,2024-01-01 00:00:00+00,

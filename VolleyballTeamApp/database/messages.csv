@@ -1,0 +1,4 @@
+id,team_id,sender_id,content,read,created_at,updated_at
+d290f1ee-6c54-4b01-90e6-d701748f0863,d290f1ee-6c54-4b01-90e6-d701748f0851,d290f1ee-6c54-4b01-90e6-d701748f0852,Practice time changed to 3 PM tomorrow,true,2024-01-01 10:00:00+00,2024-01-01 10:00:00+00
+d290f1ee-6c54-4b01-90e6-d701748f0864,d290f1ee-6c54-4b01-90e6-d701748f0851,d290f1ee-6c54-4b01-90e6-d701748f0853,Will be 5 minutes late to practice,true,2024-01-02 14:55:00+00,2024-01-02 14:55:00+00
+d290f1ee-6c54-4b01-90e6-d701748f0865,d290f1ee-6c54-4b01-90e6-d701748f0851,d290f1ee-6c54-4b01-90e6-d701748f0855,Sarah won't be at practice today - doctor appointment,true,2024-01-02 13:00:00+00,2024-01-02 13:00:00+00

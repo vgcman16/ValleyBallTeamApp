@@ -1,0 +1,3 @@
+id,team_id,name,positions,notes,created_by,created_at,updated_at
+d290f1ee-6c54-4b01-90e6-d701748f0871,d290f1ee-6c54-4b01-90e6-d701748f0851,Standard 5-1,{"setter":"back-right","middle":"front-center"},Basic 5-1 rotation,d290f1ee-6c54-4b01-90e6-d701748f0852,2024-01-01 00:00:00+00,2024-01-01 00:00:00+00
+d290f1ee-6c54-4b01-90e6-d701748f0872,d290f1ee-6c54-4b01-90e6-d701748f0851,6-2 Formation,{"setters":["back-right","front-left"]},Two setter rotation,d290f1ee-6c54-4b01-90e6-d701748f0852,2024-01-01 00:00:00+00,2024-01-01 00:00:00+00
